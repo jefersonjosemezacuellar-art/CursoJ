@@ -1,0 +1,20 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/CursoJ/app/src/main/java/com/jeferson/curso/MainActivity.java",
+      "selection": {
+        "end": {
+          "column": 8,
+          "index": 384,
+          "line": 13
+        },
+        "start": {
+          "column": 8,
+          "index": 384,
+          "line": 13
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/CursoJ/app/src/main/java/com/jeferson/curso/MainActivity.java"
+}

@@ -11,7 +11,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-
+        //Hola
         // Inflate and get instance of binding
         binding = ActivityMainBinding.inflate(getLayoutInflater());
 
